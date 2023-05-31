@@ -1,0 +1,12 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiYx7wMx_gPuOybhC4O8_8CRkRq_DX1f76qYg256ZoFCWVnaZMOxznW3aGsfORA58S3A&usqp=CAU');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+p{
+    color:navy;
+}
+.links{
+    color: black;
+}

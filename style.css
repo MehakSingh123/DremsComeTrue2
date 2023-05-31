@@ -1,0 +1,38 @@
+
+.logo{
+    text-align: left;
+    color: rgb(249, 249, 250);
+   
+    margin: -10px;
+    height:65px;
+    font-size:30px;
+}
+body{
+    background-image:url('https://c1.wallpaperflare.com/preview/913/727/583/lake-balaton-si%C3%B3fok-sunset-hungarian-sea.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+}
+p{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+header{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background: rgb(0,0,0,0.4);
+    justify-content: space-between ;
+    align-items: center;
+    display: flex;
+}
+.links{
+    color: white;
+}

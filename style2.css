@@ -1,0 +1,37 @@
+body{
+    background-image: url('https://images.pexels.com/photos/1468555/pexels-photo-1468555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+.red{
+    background-color: rgb(16, 155, 219);
+    
+    border:5px solid #f7f6f6;
+ 
+    text-align: center;
+    margin:20px;
+    
+    
+
+}
+.black{
+    background-color: rgb(16, 155, 219);
+   
+    border:5px solid #c51313;
+   
+    
+    
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.blue{
+    color:maroon;
+}
+.yellow{
+    color:white;
+}
+.links{
+    color: white;
+}
